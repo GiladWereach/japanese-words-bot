@@ -1,267 +1,532 @@
 [
-    {
-        "transliteration": "חלו",
-        "arabic": "حلو",
-        "hebrew": "יפה, מתוק"
-    },
-    {
-        "transliteration": "מיה באלמיה",
-        "arabic": "مية بالمية",
-        "hebrew": "מאה אחוז\nמילולית: מאה במאה"
-    },
-    {
-        "transliteration": "בעיד",
-        "arabic": "بعيد",
-        "hebrew": "רחוק"
-    },
-    {
-        "transliteration": "קריב",
-        "arabic": "قريب",
-        "hebrew": "קרוב"
-    },
-    {
-        "transliteration": "קלב",
-        "arabic": "قلب",
-        "hebrew": "לב"
-    },
-    {
-        "transliteration": "מדינה",
-        "arabic": "مدينة",
-        "hebrew": "עיר"
-    },
-    {
-        "transliteration": "מלכ",
-        "arabic": "ملك",
-        "hebrew": "מלך"
-    },
-    {
-        "transliteration": "עלא פכרה",
-        "arabic": "على فكرة",
-        "hebrew": "דרך אגב\nמילולית: על רעיון"
-    },
-    {
-        "transliteration": "תחיה",
-        "arabic": "تحية",
-        "hebrew": "ברכה"
-    },
-    {
-        "transliteration": "קבל",
-        "arabic": "قبل",
-        "hebrew": "לפני"
-    },
-    {
-        "transliteration": "בעד",
-        "arabic": "بعد",
-        "hebrew": "אחרי"
-    },
-    {
-        "transliteration": "הדיה",
-        "arabic": "هدية",
-        "hebrew": "מתנה"
-    },
-    {
-        "transliteration": "דפתר / דפאתר",
-        "arabic": "دفتر/ دفاتر",
-        "hebrew": "מחברת / מחברות"
-    },
-    {
-        "transliteration": "זלמה / זלאם",
-        "arabic": "زلمة / زلام",
-        "hebrew": "גבר / גברים"
-    },
-    {
-        "transliteration": "מרה / נסואן",
-        "arabic": "مرة / نسوان",
-        "hebrew": "אישה / נשים"
-    },
-    {
-        "transliteration": "צורה",
-        "arabic": "صورة",
-        "hebrew": "תמונה"
-    },
-    {
-        "transliteration": "הלא'",
-        "arabic": "هلأ, هلقيت, هسا, اسا, الحين",
-        "hebrew": "עכשיו"
-    },
-    {
-        "transliteration": "אלכל",
-        "arabic": "الكل",
-        "hebrew": "כולם"
-    },
-    {
-        "transliteration": "אעטיני",
-        "arabic": "أعطيني",
-        "hebrew": "תביא לי"
-    },
-    {
-        "transliteration": "ח׳ֹד׳",
-        "arabic": "خذ",
-        "hebrew": "קח"
-    },
-    {
-        "transliteration": "אשי / אשיאא'",
-        "arabic": "اشي / أشياء",
-        "hebrew": "דבר, משהו / דברים"
-    },
-    {
-        "transliteration": "שע'ל",
-        "arabic": "شغل",
-        "hebrew": "עבודה"
-    },
-    {
-        "transliteration": "צבח",
-        "arabic": "صبح",
-        "hebrew": "בוקר"
-    },
-    {
-        "transliteration": "ט'הר",
-        "arabic": "ظهر",
-        "hebrew": "צהריים"
-    },
-    {
-        "transliteration": "מסא",
-        "arabic": "مسا",
-        "hebrew": "ערב"
-    },
-    {
-        "transliteration": "צעב",
-        "arabic": "صعب",
-        "hebrew": "קשה"
-    },
-    {
-        "transliteration": "סהל",
-        "arabic": "سهل",
-        "hebrew": "קל"
-    },
-    {
-        "transliteration": "כלמה / כלמאת",
-        "arabic": "كلمة / كلمات",
-        "hebrew": "מילה / מילים"
-    },
-    {
-        "transliteration": "טאלב / טלאב",
-        "arabic": "طالب / طلّاب",
-        "hebrew": "תלמיד / תלמידים"
-    },
-    {
-        "transliteration": "וקת / אוקאת",
-        "arabic": "وقت / أوقات",
-        "hebrew": "זמן / זמנים"
-    },
-    {
-        "transliteration": "סנה / סנין, סנואת",
-        "arabic": "سنة / سنين, سنوات",
-        "hebrew": "שנה / שנים"
-    },
-    {
-        "transliteration": "נפס אלאשי / נפס אלשי",
-        "arabic": "نفس الاسي / نفس السّي",
-        "hebrew": "אותו הדבר"
-    },
-    {
-        "transliteration": "בחר",
-        "arabic": "بحر",
-        "hebrew": "ים"
-    },
-    {
-        "transliteration": "להג'ה",
-        "arabic": "لهجة",
-        "hebrew": "להג, דיאלקט"
-    },
-    {
-        "transliteration": "מדניין",
-        "arabic": "مدنيين",
-        "hebrew": "עירוניים, אזרחים"
-    },
-    {
-        "transliteration": "פלאחיין",
-        "arabic": "فلاحيين",
-        "hebrew": "פלאחים, כפריים"
-    },
-    {
-        "transliteration": "בדוי / בדו",
-        "arabic": "بدوي / بدو",
-        "hebrew": "בדואי / בדואים"
-    },
-    {
-        "transliteration": "שמאל",
-        "arabic": "شمال",
-        "hebrew": "צפון"
-    },
-    {
-        "transliteration": "ג'נוב",
-        "arabic": "جنوب",
-        "hebrew": "דרום"
-    },
-    {
-        "transliteration": "שִתַא",
-        "arabic": "شِتَى",
-        "hebrew": "חורף"
-    },
-    {
-        "transliteration": "צֵיף",
-        "arabic": "صِيف",
-        "hebrew": "קיץ"
-    },
-    {
-        "transliteration": "חַ׳רִיף",
-        "arabic": "خَرِيف",
-        "hebrew": "סתיו"
-    },
-    {
-        "transliteration": "רַבִּיע",
-        "arabic": "رَبِيع",
-        "hebrew": "אביב"
-    },
-    {
-        "transliteration": "فَرْق",
-        "arabic": "פרק",
-        "hebrew": "הבדל"
-    },
-    {
-        "transliteration": "שכל",
-        "arabic": "شكِل",
-        "hebrew": "אופן, צורה"
-    },
-    {
-        "transliteration": "עאם",
-        "arabic": "عامّ",
-        "hebrew": "כללי"
-    },
-    {
-        "transliteration": "בשכל עאם",
-        "arabic": "بشِكْل عامّ",
-        "hebrew": "באופן כללי"
-    },
-    {
-        "transliteration": "ואצ'ח",
-        "arabic": "وَاضِح",
-        "hebrew": "ברור"
-    },
-    {
-        "transliteration": "צ'יף",
-        "arabic": "ضيف",
-        "hebrew": "אורח"
-    },
-    {
-        "transliteration": "ג'מלה",
-        "arabic": "جُمْلِة",
-        "hebrew": "משפט"
-    },
-    {
-        "transliteration": "סטר",
-        "arabic": "سَطْر",
-        "hebrew": "שורה"
-    },
-    {
-        "transliteration": "ד'כי",
-        "arabic": "ذَكِي",
-        "hebrew": "חכם, טעים"
-    },
-    {
-        "transliteration": "צאחב / צחאב",
-        "arabic": "صاحِب / صْحَاب",
-        "hebrew": "חבר / חברים"
-    }
+  {
+    "Katakana": "ア",
+    "Sounds like": "a",
+    "Hiragana": "あ"
+  },
+  {
+    "Katakana": "イ",
+    "Sounds like": "i",
+    "Hiragana": "い"
+  },
+  {
+    "Katakana": "ウ",
+    "Sounds like": "u",
+    "Hiragana": "う"
+  },
+  {
+    "Katakana": "エ",
+    "Sounds like": "e",
+    "Hiragana": "え"
+  },
+  {
+    "Katakana": "オ",
+    "Sounds like": "o",
+    "Hiragana": "お"
+  },
+  {
+    "Katakana": "カ",
+    "Sounds like": "ka",
+    "Hiragana": "か"
+  },
+  {
+    "Katakana": "キ",
+    "Sounds like": "ki",
+    "Hiragana": "き"
+  },
+  {
+    "Katakana": "ク",
+    "Sounds like": "ku",
+    "Hiragana": "く"
+  },
+  {
+    "Katakana": "ケ",
+    "Sounds like": "ke",
+    "Hiragana": "け"
+  },
+  {
+    "Katakana": "コ",
+    "Sounds like": "ko",
+    "Hiragana": "こ"
+  },
+  {
+    "Katakana": "キャ",
+    "Sounds like": "kya",
+    "Hiragana": "きゃ"
+  },
+  {
+    "Katakana": "キュ",
+    "Sounds like": "kyu",
+    "Hiragana": "きゅ"
+  },
+  {
+    "Katakana": "キョ",
+    "Sounds like": "kyo",
+    "Hiragana": "きょ"
+  },
+  {
+    "Katakana": "サ",
+    "Sounds like": "sa",
+    "Hiragana": "さ"
+  },
+  {
+    "Katakana": "シ",
+    "Sounds like": "shi",
+    "Hiragana": "し"
+  },
+  {
+    "Katakana": "ス",
+    "Sounds like": "su",
+    "Hiragana": "す"
+  },
+  {
+    "Katakana": "セ",
+    "Sounds like": "se",
+    "Hiragana": "せ"
+  },
+  {
+    "Katakana": "ソ",
+    "Sounds like": "so",
+    "Hiragana": "そ"
+  },
+  {
+    "Katakana": "シャ",
+    "Sounds like": "sha",
+    "Hiragana": "しゃ"
+  },
+  {
+    "Katakana": "シュ",
+    "Sounds like": "shu",
+    "Hiragana": "しゅ"
+  },
+  {
+    "Katakana": "ショ",
+    "Sounds like": "sho",
+    "Hiragana": "しょ"
+  },
+  {
+    "Katakana": "タ",
+    "Sounds like": "ta",
+    "Hiragana": "た"
+  },
+  {
+    "Katakana": "チ",
+    "Sounds like": "chi",
+    "Hiragana": "ち"
+  },
+  {
+    "Katakana": "ツ",
+    "Sounds like": "tsu",
+    "Hiragana": "つ"
+  },
+  {
+    "Katakana": "テ",
+    "Sounds like": "te",
+    "Hiragana": "て"
+  },
+  {
+    "Katakana": "ト",
+    "Sounds like": "to",
+    "Hiragana": "と"
+  },
+  {
+    "Katakana": "チャ",
+    "Sounds like": "cha",
+    "Hiragana": "ちゃ"
+  },
+  {
+    "Katakana": "チュ",
+    "Sounds like": "chu",
+    "Hiragana": "ちゅ"
+  },
+  {
+    "Katakana": "チョ",
+    "Sounds like": "cho",
+    "Hiragana": "ちょ"
+  },
+  {
+    "Katakana": "ナ",
+    "Sounds like": "na",
+    "Hiragana": "な"
+  },
+  {
+    "Katakana": "ニ",
+    "Sounds like": "ni",
+    "Hiragana": "に"
+  },
+  {
+    "Katakana": "ヌ",
+    "Sounds like": "nu",
+    "Hiragana": "ぬ"
+  },
+  {
+    "Katakana": "ネ",
+    "Sounds like": "ne",
+    "Hiragana": "ね"
+  },
+  {
+    "Katakana": "ノ",
+    "Sounds like": "no",
+    "Hiragana": "の"
+  },
+  {
+    "Katakana": "ハ",
+    "Sounds like": "ha",
+    "Hiragana": "は"
+  },
+  {
+    "Katakana": "ヒ",
+    "Sounds like": "hi",
+    "Hiragana": "ひ"
+  },
+  {
+    "Katakana": "フ",
+    "Sounds like": "fu",
+    "Hiragana": "ふ"
+  },
+  {
+    "Katakana": "ヘ",
+    "Sounds like": "he",
+    "Hiragana": "へ"
+  },
+  {
+    "Katakana": "ホ",
+    "Sounds like": "ho",
+    "Hiragana": "ほ"
+  },
+  {
+    "Katakana": "ヒャ",
+    "Sounds like": "hya",
+    "Hiragana": "ひゃ"
+  },
+  {
+    "Katakana": "ヒュ",
+    "Sounds like": "hyu",
+    "Hiragana": "ひゅ"
+  },
+  {
+    "Katakana": "ヒョ",
+    "Sounds like": "hyo",
+    "Hiragana": "ひょ"
+  },
+  {
+    "Katakana": "マ",
+    "Sounds like": "ma",
+    "Hiragana": "ま"
+  },
+  {
+    "Katakana": "ミ",
+    "Sounds like": "mi",
+    "Hiragana": "み"
+  },
+  {
+    "Katakana": "ム",
+    "Sounds like": "mu",
+    "Hiragana": "む"
+  },
+  {
+    "Katakana": "メ",
+    "Sounds like": "me",
+    "Hiragana": "め"
+  },
+  {
+    "Katakana": "モ",
+    "Sounds like": "mo",
+    "Hiragana": "も"
+  },
+  {
+    "Katakana": "ミャ",
+    "Sounds like": "mya",
+    "Hiragana": "みゃ"
+  },
+  {
+    "Katakana": "ミュ",
+    "Sounds like": "myu",
+    "Hiragana": "みゅ"
+  },
+  {
+    "Katakana": "ミョ",
+    "Sounds like": "myo",
+    "Hiragana": "みょ"
+  },
+  {
+    "Katakana": "ヤ",
+    "Sounds like": "ya",
+    "Hiragana": "や"
+  },
+  {
+    "Katakana": "ユ",
+    "Sounds like": "yu",
+    "Hiragana": "ゆ"
+  },
+  {
+    "Katakana": "ヨ",
+    "Sounds like": "yo",
+    "Hiragana": "よ"
+  },
+  {
+    "Katakana": "ラ",
+    "Sounds like": "ra",
+    "Hiragana": "ら"
+  },
+  {
+    "Katakana": "リ",
+    "Sounds like": "ri",
+    "Hiragana": "り"
+  },
+  {
+    "Katakana": "ル",
+    "Sounds like": "ru",
+    "Hiragana": "る"
+  },
+  {
+    "Katakana": "レ",
+    "Sounds like": "re",
+    "Hiragana": "れ"
+  },
+  {
+    "Katakana": "ロ",
+    "Sounds like": "ro",
+    "Hiragana": "ろ"
+  },
+  {
+    "Katakana": "リャ",
+    "Sounds like": "rya",
+    "Hiragana": "りゃ"
+  },
+  {
+    "Katakana": "リュ",
+    "Sounds like": "ryu",
+    "Hiragana": "りゅ"
+  },
+  {
+    "Katakana": "リョ",
+    "Sounds like": "ryo",
+    "Hiragana": "りょ"
+  },
+  {
+    "Katakana": "ワ",
+    "Sounds like": "wa",
+    "Hiragana": "わ"
+  },
+  {
+    "Katakana": "ン",
+    "Sounds like": "n",
+    "Hiragana": "ん"
+  },
+  {
+    "Katakana": "ガ",
+    "Sounds like": "ga",
+    "Hiragana": "が"
+  },
+  {
+    "Katakana": "ギ",
+    "Sounds like": "gi",
+    "Hiragana": "ぎ"
+  },
+  {
+    "Katakana": "グ",
+    "Sounds like": "gu",
+    "Hiragana": "ぐ"
+  },
+  {
+    "Katakana": "ゲ",
+    "Sounds like": "ge",
+    "Hiragana": "げ"
+  },
+  {
+    "Katakana": "ゴ",
+    "Sounds like": "go",
+    "Hiragana": "ご"
+  },
+  {
+    "Katakana": "ギャ",
+    "Sounds like": "gya",
+    "Hiragana": "ぎゃ"
+  },
+  {
+    "Katakana": "ギュ",
+    "Sounds like": "gyu",
+    "Hiragana": "ぎゅ"
+  },
+  {
+    "Katakana": "ギョ",
+    "Sounds like": "gyo",
+    "Hiragana": "ぎょ"
+  },
+  {
+    "Katakana": "ザ",
+    "Sounds like": "za",
+    "Hiragana": "ざ"
+  },
+  {
+    "Katakana": "ジ",
+    "Sounds like": "ji",
+    "Hiragana": "じ"
+  },
+  {
+    "Katakana": "ズ",
+    "Sounds like": "zu",
+    "Hiragana": "ず"
+  },
+  {
+    "Katakana": "ゼ",
+    "Sounds like": "ze",
+    "Hiragana": "ぜ"
+  },
+  {
+    "Katakana": "ゾ",
+    "Sounds like": "zo",
+    "Hiragana": "ぞ"
+  },
+  {
+    "Katakana": "ジャ",
+    "Sounds like": "ja",
+    "Hiragana": "じゃ"
+  },
+  {
+    "Katakana": "ジュ",
+    "Sounds like": "ju",
+    "Hiragana": "じゅ"
+  },
+  {
+    "Katakana": "ジョ",
+    "Sounds like": "jo",
+    "Hiragana": "じょ"
+  },
+  {
+    "Katakana": "ダ",
+    "Sounds like": "da",
+    "Hiragana": "だ"
+  },
+  {
+    "Katakana": "ヂ",
+    "Sounds like": "ji",
+    "Hiragana": "ぢ"
+  },
+  {
+    "Katakana": "ヅ",
+    "Sounds like": "zu",
+    "Hiragana": "づ"
+  },
+  {
+    "Katakana": "デ",
+    "Sounds like": "de",
+    "Hiragana": "で"
+  },
+  {
+    "Katakana": "ド",
+    "Sounds like": "do",
+    "Hiragana": "ど"
+  },
+  {
+    "Katakana": "バ",
+    "Sounds like": "ba",
+    "Hiragana": "ば"
+  },
+  {
+    "Katakana": "ビ",
+    "Sounds like": "bi",
+    "Hiragana": "び"
+  },
+  {
+    "Katakana": "ブ",
+    "Sounds like": "bu",
+    "Hiragana": "ぶ"
+  },
+  {
+    "Katakana": "ベ",
+    "Sounds like": "be",
+    "Hiragana": "べ"
+  },
+  {
+    "Katakana": "ボ",
+    "Sounds like": "bo",
+    "Hiragana": "ぼ"
+  },
+  {
+    "Katakana": "ビャ",
+    "Sounds like": "bya",
+    "Hiragana": "びゃ"
+  },
+  {
+    "Katakana": "ビュ",
+    "Sounds like": "byu",
+    "Hiragana": "びゅ"
+  },
+  {
+    "Katakana": "ビョ",
+    "Sounds like": "byo",
+    "Hiragana": "びょ"
+  },
+  {
+    "Katakana": "パ",
+    "Sounds like": "pa",
+    "Hiragana": "ぱ"
+  },
+  {
+    "Katakana": "ピ",
+    "Sounds like": "pi",
+    "Hiragana": "ぴ"
+  },
+  {
+    "Katakana": "プ",
+    "Sounds like": "pu",
+    "Hiragana": "ぷ"
+  },
+  {
+    "Katakana": "ペ",
+    "Sounds like": "pe",
+    "Hiragana": "ぺ"
+  },
+  {
+    "Katakana": "ポ",
+    "Sounds like": "po",
+    "Hiragana": "ぽ"
+  },
+  {
+    "Katakana": "ファ",
+    "Sounds like": "fa",
+    "Hiragana": "ふぁ"
+  },
+  {
+    "Katakana": "フィ",
+    "Sounds like": "fi",
+    "Hiragana": "ふぃ"
+  },
+  {
+    "Katakana": "フェ",
+    "Sounds like": "fe",
+    "Hiragana": "ふぇ"
+  },
+  {
+    "Katakana": "フォ",
+    "Sounds like": "fo",
+    "Hiragana": "ふぉ"
+  },
+  {
+    "Katakana": "ツァ",
+    "Sounds like": "tsa",
+    "Hiragana": "つぁ"
+  },
+  {
+    "Katakana": "ティ",
+    "Sounds like": "ti",
+    "Hiragana": "てぃ"
+  },
+  {
+    "Katakana": "トゥ",
+    "Sounds like": "tu",
+    "Hiragana": "とぅ"
+  },
+  {
+    "Katakana": "ウェ",
+    "Sounds like": "we",
+    "Hiragana": "うぇ"
+  },
+  {
+    "Katakana": "ウォ",
+    "Sounds like": "wo",
+    "Hiragana": "うぉ"
+  }
 ]
